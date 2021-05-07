@@ -1,0 +1,11 @@
+import matplotlib.pyplot as plt
+import numpy as np
+
+x = np.array(range(1000))
+y = x ** 5
+
+plt.scatter(x,y)
+plt.title('Exponential growth')
+plt.xlabel('Time')
+plt.ylabel('Count')
+plt.show()
