@@ -1,4 +1,2 @@
 # datasci
-Test datascience repository. I created this to learn how to use GitHub.
-
-just for practice. Nothing serious here.
+Materials and insights on data science. There will be lots of overlap with both the Python and stats repositories, but this one has an emphasis on the data science as a professional path
